@@ -9,7 +9,7 @@ FORMAT="utf-8"
 DISSCONNECT_MESSAGE= "!DISCONNECT"
 
 
-SERVER="10.20.203.147"  #hardcoding
+SERVER="Server IP"  #hardcoding
 ADDR=(SERVER,PORT)
 
 
