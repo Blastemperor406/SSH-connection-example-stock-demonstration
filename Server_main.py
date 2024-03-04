@@ -11,7 +11,7 @@ PORT = 5050
 FORMAT = "utf-8"
 DISSCONNECT_MESSAGE = "!DISCONNECT"
 
-"""SERVER="192.168.0.104"""  # hardcoding
+"""SERVER="Server_IP"""  # hardcoding
 
 SERVER = socket.gethostbyname(socket.gethostname())
 
